@@ -7,7 +7,7 @@ I love to work on different project and learn new things.
 Project Management|SOC Analyst|NOC Administrator
 
 **Tools:**
-[](cisco-ccna-png-logo-16.png)
+![](cisco-ccna-png-logo-16.png)
 <!--
 **masum5421/masum5421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
