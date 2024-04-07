@@ -7,7 +7,6 @@ I love to work on different project and learn new things.
 Project Management| SOC Analyst| NOC Administrator
 
 **Tools:**
-
 ![](cisco.png)                ![](android.png)
 
 
