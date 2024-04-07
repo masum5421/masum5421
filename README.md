@@ -4,11 +4,16 @@ I have a huge interest on ML, android development and cyber security. Currently 
 I love to work on different project and learn new things.
 
 **Skills:**
-Project Management|SOC Analyst|NOC Administrator
+Project Management| SOC Analyst| NOC Administrator
 
 **Tools:**
 
-![](cisco.png)        ![](android.png)
+![](cisco.png)
+
+![](android.png)
+
+
+
 <!--
 **masum5421/masum5421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
