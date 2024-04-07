@@ -8,9 +8,7 @@ Project Management| SOC Analyst| NOC Administrator
 
 **Tools:**
 
-![](cisco.png)
-
-![](android.png)
+![](cisco.png)                ![](android.png)
 
 
 
