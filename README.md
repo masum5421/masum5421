@@ -1,7 +1,7 @@
 Hi there 👋
-This is **Masum Billah** here. I am from Military Institute of Science and Technology at Dhaka done with my BSc in Computer Science.
-I have a huge interest on ML, android development and cyber security. Currently serving in military.
-I love to work on different project and learn new things.
+Greetings,
+
+I am **Masum Billah**, a graduate of the Military Institute of Science and Technology in Dhaka, where I obtained my BSc in Computer Science. Currently serving in the military, I possess a profound interest in Machine Learning, Android development, and Cybersecurity. I am enthusiastic about engaging in diverse projects and continually expanding my knowledge base.
 
 **Skills:**
 Project Management| SOC Analyst| NOC Administrator
