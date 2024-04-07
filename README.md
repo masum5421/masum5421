@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi there 👋
+This is **Masum Billah** here. I am from Military Institute of Science and Technology at Dhaka done with my BSc in Computer Science.
+I have a huge interest on ML, android development and cyber security. Currently serving in military.
+I love to work on different project and learn new things.
+
+**Skills:**
+Project Management|SOC Analyst|NOC Administrator
+
+**Tools:**
+[
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dpacket%2BTracer&psig=AOvVaw3zerLnaYB3F_xTncUfDqO9&ust=1712559641130000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCpofvDr4UDFQAAAAAdAAAAABAE)
 
 <!--
 **masum5421/masum5421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
